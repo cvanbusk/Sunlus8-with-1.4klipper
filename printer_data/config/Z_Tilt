@@ -1,0 +1,9 @@
+[z_tilt]
+z_positions: 282, 107
+             30, 107
+points: 282, 107
+        30, 107
+speed: 200
+horizontal_move_z: 5
+retries: 20
+retry_tolerance: .0025
